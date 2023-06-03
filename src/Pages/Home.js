@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.css";
 import ExploreByCategories from "../Components/ExploreByCategories";
 import { Link } from "react-router-dom";
-import CommonItemsLayout from "../Components/CommonItemsLayout/CommonItemsLayout";
+// import CommonItemsLayout from "../Components/CommonItemsLayout/CommonItemsLayout";
 
 const exploreByCategories = [
   {

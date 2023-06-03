@@ -1,5 +1,5 @@
 import React from "react";
-import CommonItemsLayout from "./CommonItemsLayout/CommonItemsLayout";
+// import CommonItemsLayout from "./CommonItemsLayout/CommonItemsLayout";
 import CommonLayout from "./CommonItemsLayout/CommonLayout";
 
 const data = [
